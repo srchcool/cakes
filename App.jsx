@@ -27,7 +27,7 @@ class App extends Component {
             <div>
                
                <ul>
-                  <li><Link to={'/'}>List of Cakes</Link></li>
+                  <li><Link to={'/'}>List of Cakes ******v 0.2 (Git test)********</Link></li>
                   <li><Link to={'/AddCake'}>Add a Cake</Link></li>
                </ul>
 
